@@ -6,7 +6,7 @@
 ## negpos
 ネガポジ反転を行うサンプルプログラム
 
-##動作確認環境
+## 動作確認環境
 Visual Studio 2017
 openCV 4.4.0
 CUDA 11.1
